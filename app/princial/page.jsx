@@ -1,3 +1,4 @@
+'use cliente'
 import React, { useState } from 'react';
 import Article from '@/app/components/article'; // Compon
 
