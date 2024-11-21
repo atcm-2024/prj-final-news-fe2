@@ -1,4 +1,4 @@
-'use cliente'
+'use client'
 import React, { useState } from 'react';
 import Article from '@/app/components/article'; // Compon
 
